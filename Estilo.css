@@ -1,0 +1,10 @@
+body{
+    background: url('http://www.fondos12.com/data/media/2/big/ultimate_pack-10__100___wallpaper_480x300.jpg');
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+
+#slides-home {
+    width: 600px;
+    margin: 0 auto;
+}
